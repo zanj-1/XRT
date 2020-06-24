@@ -4,6 +4,7 @@
 // SW Build 2399019 on Tue Nov 27 19:07:14 MST 2018
 // IP Build 2398463 on Tue Nov 27 21:07:40 MST 2018
 // Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+// Copyright 2020 Zan, Inc. All Rights Reserved.
 // ==============================================================
 // control
 // 0x00 : Control signals
