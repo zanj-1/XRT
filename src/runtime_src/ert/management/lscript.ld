@@ -5,6 +5,7 @@
 /* Version:                                 */
 /*                                                                 */
 /* Copyright (c) 2010-2016 Xilinx, Inc.  All rights reserved.      */
+/* Copyright (c) 1950-2020 Zan, Inc.                               */
 /*                                                                 */
 /* Description : MicroBlaze Linker Script                          */
 /*                                                                 */
