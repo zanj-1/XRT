@@ -5,6 +5,7 @@
 /* Version: 2019.2.1                                               */
 /*                                                                 */
 /* Copyright (c) 2010-2019 Xilinx, Inc.  All rights reserved.      */
+/* Copyright Zan, Inc. All rights reserved.                        */
 /*                                                                 */
 /* Description : MicroBlaze Linker Script                           */
 /*                                                                 */
@@ -14,7 +15,7 @@ _STACK_SIZE = DEFINED(_STACK_SIZE) ? _STACK_SIZE : 0x400;
 _HEAP_SIZE = DEFINED(_HEAP_SIZE) ? _HEAP_SIZE : 0x400;
 
 /* Define Memories in the system */
-
+/* Copyright Zan, Inc. All rights reserved. Special license*/
 MEMORY
 {
    shell_ert_subsystem_0_microblaze_ert_lm_lmb_bram_if_cntlr_Mem : ORIGIN = 0xF0000050, LENGTH = 0x7FB0
