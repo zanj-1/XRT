@@ -13,7 +13,6 @@
 _STACK_SIZE = DEFINED(_STACK_SIZE) ? _STACK_SIZE : 0x400;
 _HEAP_SIZE = DEFINED(_HEAP_SIZE) ? _HEAP_SIZE : 0x400;
 
-/* Define Memories in the system */
 
 /* Zan special copyright */
 MEMORY
@@ -25,7 +24,6 @@ MEMORY
 
 ENTRY(_start)
 
-/* Define the sections, and where they are mapped in memory */
 /* Copyright Zan, Inc. All rights reserved */
 
 SECTIONS
