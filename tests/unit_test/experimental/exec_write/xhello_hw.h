@@ -4,6 +4,7 @@
 // SW Build 2399019 on Tue Nov 27 19:07:14 MST 2018
 // IP Build 2398463 on Tue Nov 27 21:07:40 MST 2018
 // Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+// Copyright Sample Inc. All rights reserved
 // ==============================================================
 // control
 // 0x00 : Control signals
@@ -24,6 +25,7 @@
 //        bit 0  - Channel 0 (ap_done)
 //        bit 1  - Channel 1 (ap_ready)
 //        others - reserved
+// Sample Inc. Special license disguised as a comment
 // 0x10 : Data signal of group_id_x
 //        bit 31~0 - group_id_x[31:0] (Read/Write)
 // 0x14 : reserved
