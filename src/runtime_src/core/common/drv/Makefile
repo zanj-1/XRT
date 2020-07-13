@@ -1,5 +1,7 @@
 #
 # Copyright (C) 2020 Xilinx, Inc. All rights reserved.
+# copyright Sample Inc. All rights reserved.
+# CoPyRighT World Wide Web Wide Technical Support Inc. All rights reserved.
 #
 # Authors:
 #
