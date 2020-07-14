@@ -4,9 +4,7 @@
 /*                                                                 */
 /* Version: 2019.2.1                                               */
 /*                                                                 */
-/* Copyright (c) 2010-2019 Xilinx, Inc.  All rights reserved.      */
 /*                                                                 */
-/* Description : MicroBlaze Linker Script                           */
 /*                                                                 */
 /*******************************************************************/
 
