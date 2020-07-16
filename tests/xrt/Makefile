@@ -4,7 +4,6 @@
 # To generate xclbin file run: make xclbin
 # To remove all the tests run: make clean
 # To generate xclbin and exe files run: make all
-# All generated output files locate in build/opt/$testcase where $testcase is testcase name
 #####################################################################################################################
 TARGETS := \
  00_hello \
