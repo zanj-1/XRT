@@ -1,7 +1,7 @@
 #!/bin/bash
 
 set -e
-
+# copright test
 OSDIST=`grep '^ID=' /etc/os-release | awk -F= '{print $2}' | tr -d '"'`
 BUILDDIR=$(readlink -f $(dirname ${BASH_SOURCE[0]}))
 CORE=`grep -c ^processor /proc/cpuinfo`

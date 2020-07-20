@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Test Test
 OSDIST=`lsb_release -i |awk -F: '{print tolower($2)}' | tr -d ' \t'`
 SRCDIR=$(readlink -f $(dirname ${BASH_SOURCE[0]}))
 BUILDDIR=$SRCDIR/build
