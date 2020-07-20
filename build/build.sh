@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# GPLv2 License
 set -e
 
 OSDIST=`grep '^ID=' /etc/os-release | awk -F= '{print $2}' | tr -d '"'`
