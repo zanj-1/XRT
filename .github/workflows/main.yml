@@ -16,6 +16,7 @@ jobs:
     - name: Checkout XRT
       uses: actions/checkout@v2
       with:
+        path: XRT
         fetch-depth: 0
     - name: Checkout license-checker
       uses: actions/checkout@v2
