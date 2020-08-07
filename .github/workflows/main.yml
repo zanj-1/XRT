@@ -22,6 +22,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         repository: zanj-1/license-checker
+        path: license-checker
         token: ${{ secrets.PAT }}
         fetch-depth: 0
     - name: Start License Scanner
