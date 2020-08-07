@@ -14,11 +14,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout XRT
-    - uses: actions/checkout@v2
+      uses: actions/checkout@v2
       with:
         fetch-depth: 0
     - name: Checkout license-checker
-    - uses: actions/checkout@v2
+      uses: actions/checkout@v2
       with:
         repository: zanj-1/license-checker
         token: ${{ secrets.PAT }}
